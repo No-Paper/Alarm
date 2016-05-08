@@ -5,7 +5,8 @@ the powerhouse behind Task Manager. So this project uses schtasks.exe with a Vis
 simple Desktop Alarm Clock.
 
 
-
-![Alarm Clock]<center>(https://github.com/vtreanor/Alarm/blob/master/alarmClock.jpg)</center>
+<center>
+![Alarm Clock](https://github.com/vtreanor/Alarm/blob/master/alarmClock.jpg)
+</center>
 
 For a more complete description please go to: [no-paper](http://no-paper.co.uk/alarmClock)
